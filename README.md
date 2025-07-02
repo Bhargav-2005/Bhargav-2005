@@ -24,7 +24,7 @@ Hi there 👋 I’m **Bhargav Challa**, a passionate Computer Science undergradu
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-,!-- ## Hi there 👋 -->
+<!-- ## Hi there 👋 -->
 
 <!--
 **Bhargav-2005/Bhargav-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
